@@ -4,11 +4,17 @@ This is a Java-based task management application developed as part of a Software
 A video explaining each code snippet individually and demonstrating the full code execution is attached on LinkedIn.
 ## Features
 Add tasks – Create new tasks to manage.
+
 View tasks – View all existing tasks in a list.
+
 Remove tasks – Remove a specific task from the list.
+
 Testing – Integrated with JUnit for unit testing and Selenium for UI automation testing.
+
 API Testing – Postman collection for API endpoints testing.
+
 Performance Testing – Load testing using Apache JMeter.
+
 Continuous Integration – Automated testing triggered through GitHub Actions (or Jenkins).
 ## Technologies Used
 Programming Language: Java
