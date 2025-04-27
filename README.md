@@ -17,11 +17,17 @@ Performance Testing – Load testing using Apache JMeter.
 
 Continuous Integration – Automated testing triggered through GitHub Actions (or Jenkins).
 ## Technologies Used
+
 Programming Language: Java
+
 IDE: IntelliJ IDEA
+
 Testing Framework: JUnit (Unit Testing), Selenium (UI Testing), Postman (API Testing)
+
 Performance Testing: Apache JMeter
+
 Version Control: Git & GitHub
+
 CI/CD: GitHub Actions (or Jenkins)
 ## Setup Instructions
 1. Clone the repository:
